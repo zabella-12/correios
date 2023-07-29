@@ -7,7 +7,8 @@ Nossa solução possibilita o usuário (pessoas físicas e jurídicas), a realiz
 ### Tecnologia
 
 - Utilizado BootStrap para melhor responsividade;
-- API do VLibras para melhor acessibilidade
+- API do VLibras para melhor acessibilidade;
+O projeto não necessita de nenhuma instalação, para ser executado, devido a conexão por CDN.
 
 
 ### Integrantes
